@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-16: Deploy on Railway button
+
+- README: added the Deploy on Railway button for the published template `postiz-2`. No change to the images or the services.
+
 ## 2026-11-16: Postiz v2.26.0, Temporal 1.32.2
 
 First release of the template.

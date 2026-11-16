@@ -1,5 +1,7 @@
 # Postiz on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/postiz-2?utm_medium=integration&utm_source=button&utm_campaign=postiz)
+
 Railway template for [Postiz](https://github.com/gitroomhq/postiz-app), the open-source social media scheduler. Every app service builds from this repo, so a merge to `main` here shows up as an "update available" notice in the projects of everyone who deployed the template. Each deployer chooses when to apply it.
 
 ## What it deploys
